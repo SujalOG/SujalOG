@@ -20,8 +20,8 @@ From: 05 August 2024 - To: 12 August 2024
 
 Total Time: 45 hrs 12 mins
 
-JavaScript   24 hrs 35 mins  █████████████░░░░░░░░░░░░   52.36 %
-Markdown     13 hrs 37 mins  ███████░░░░░░░░░░░░░░░░░░   29.02 %
+JavaScript   12 hrs 35 mins  █████████████░░░░░░░░░░░░   52.36 %
+Markdown     5 hrs 37 mins  ███████░░░░░░░░░░░░░░░░░░   29.02 %
 ```
 
 <!--END_SECTION:waka-->  
@@ -65,10 +65,10 @@ Markdown     13 hrs 37 mins  ███████░░░░░░░░░░
 <details close> 
 <br>
     
-![](https://komarev.com/ghpvc/?username=Synchrotek&color=orange&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=SujalOG&color=orange&style=for-the-badge)
  
 <summary><h2>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2></summary>
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=Synchrotek&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/> <br> -->
+ <img src="https://github-readme-stats.vercel.app/api?username=SujalOG&show_icons=true&locale=en&theme=highcontrast" alt="Github stats"/> <br>
  <hr width="58%" size="1px">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalOG&theme=merko" alt="Current & Total Streak"/>
 <br><br>
