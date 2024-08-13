@@ -80,11 +80,5 @@ Markdown     5 hrs 37 mins  ███████░░░░░░░░░░�
 
 ***
 
-<!-------------------------------------------------------------------------------------------
-<img width="100%" align="left" alt="Coding" src="https://github.com/Synchrotek/Ascii-art-generator-py/assets/77431114/1eca3ec2-1c36-42b5-8f70-09a980afb4da"><br>
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
--->
+<img src="https://raw.githubusercontent.com/aakhildasz/aakhildasz/output/snake.svg" alt="Snake animation" />
 
-<!------OPTIONAL-----------------------------------------------------------------------------
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=highcontras)](https://github.com//github-readme-stats)
--->
