@@ -31,7 +31,7 @@ Markdown     5 hrs 37 mins  ███████░░░░░░░░░░�
 
 - 👋 Hello! I'm a beginner with a passion for code and creativity.
 
-- 🌱 Enthusiastic  about - *webdev, backend, scalable architectures.*
+- 🌱 Enthusiastic  about - *Web Development, Problem Solving*
   
 - 🚀 Explore all my projects [*Here*](https://github.com/SujalOG?tab=repositories)
   
