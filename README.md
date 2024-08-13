@@ -18,7 +18,7 @@
 ```txt
 From: 01 August 2024 - To: 12 August 2024
 
-Total Time: 45 hrs 12 mins
+Total Time: 18 hrs 12 mins
 
 JavaScript   12 hrs 35 mins  █████████████░░░░░░░░░░░░   52.36 %
 Markdown     5 hrs 37 mins  ███████░░░░░░░░░░░░░░░░░░   29.02 %
