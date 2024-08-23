@@ -80,5 +80,5 @@ Markdown     5 hrs 37 mins  ███████░░░░░░░░░░�
 
 ***
 
-<img src="https://raw.githubusercontent.com/SujalOG/SujalOG/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/SujalOG/SujalOG/output/snake.svg" alt="Snake animation" />-->
 
